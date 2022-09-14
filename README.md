@@ -1,5 +1,5 @@
 ### Hello!
-My name is Samuel and I'm 19 years old from Sweden.
+My name is Samuel and I'm 20 years old from Sweden.
 
 #### About me
 - 👀 I’m interested in design, programming, cars, music, among other things
