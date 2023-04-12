@@ -1,9 +1,10 @@
 ### Hello!
-My name is Samuel and I'm 20 years old from Sweden.
+My name is Samuel and I'm a 20-year-old web development student from Sweden.
 
 #### About me
-- 👀 I’m interested in design, programming, cars, music, among other things
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in design, programming, cars, music, among other things.
+- 🎓 I’m currently studying Web Development at Mid Sweden University.
+- ⚙️ Some of the languages I'm familiar with are: HTML, CSS/Sass, JavaScript/TypeScript, C# and PHP.
 - 📫 How to reach me: samuelleeward9@gmail.com
 
 <!---
