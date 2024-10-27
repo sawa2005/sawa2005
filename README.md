@@ -1,5 +1,5 @@
 ### Hello!
-My name is Samuel and I'm a 21-year-old web developer from Sweden.
+My name is Samuel and I'm a 22-year-old web developer from Sweden.
 
 #### About me
 - 👀 I’m interested in design, programming, cars, music, among other things.
